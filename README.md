@@ -2,8 +2,16 @@
 
 A real-time object detection system built with YOLOv8 and OpenCV, trained to detect common classroom and daily-use objects like bottles, chairs, books, laptops, cups, and more.
 
-Name: Debayan Mitra
-Reg no: 25BCE10801
+| Field | Details |
+|-------|---------|
+| **Name** | Debayan Mitra |
+| **Registration No.** | 25BCE10801 |
+| **Branch** | B.Tech – Computer Science (SCOPE) |
+| **Semester** | Second Semester |
+| **Course Code** | CSA2001 |
+| **Course Title** | Fundamentals of AI & ML |
+| **Faculty** | Rakesh Srivastava |
+
 
 ## What it does
 - Detects objects in real-time via webcam
@@ -16,7 +24,7 @@ Reg no: 25BCE10801
 - `dataset.yaml` — dataset config with class names
 
 ## Trained Model
-The trained `best.pt` model is available in the [Releases](../../releases) section as a `.zip` file.  
+The trained `best.pt` model is available in the folders uploaded. 
 Download and place it at `runs/detect/train/weights/best.pt` before running `detect.py`.
 
 ## Requirements
